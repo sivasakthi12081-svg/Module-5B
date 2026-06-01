@@ -1,4 +1,4 @@
-<img width="1919" height="686" alt="image" src="https://github.com/user-attachments/assets/5379adf8-ca15-400a-a148-a9f8a399a28a" /># NumPy Program: Replace the Second Column in a 2D Array
+Column in a 2D Array
 
 ## 🎯 Aim
 To write a **NumPy** program that deletes the second column from a given 2D array and inserts a new column at the same position.
